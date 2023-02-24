@@ -1,0 +1,462 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Apple",
+            "desc": "100% fresh apples",
+            "img": "apple.png",
+            "price": "1.00",
+            "size": "Approx 360g per piece",
+            "category": "fruits"
+        },
+        {
+            "id": 2,
+            "title": "Avocado",
+            "desc": "100% fresh avocados",
+            "img": "avocado.png",
+            "price": "1.20",
+            "size": "Approx 500g per piece",
+            "category": "fruits"
+        },
+        {
+            "id": 3,
+            "title": "Banana",
+            "desc": "100% fresh banana",
+            "img": "banana.png",
+            "price": "0.80",
+            "size": "Approx 1kg per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 4,
+            "title": "Bellpepper",
+            "desc": "100% fresh bellpeppers",
+            "img": "bellpepper.png",
+            "price": "1.60",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 5,
+            "title": "Salmon",
+            "desc": "100% fresh salmon",
+            "img": "salmon.png",
+            "price": "5.00",
+            "size": "Approx 500g per pack",
+            "category": "meats"
+        },
+        {
+            "id": 6,
+            "title": "Strawberry",
+            "desc": "100% fresh strawberrys",
+            "img": "strawberry.png",
+            "price": "3.00",
+            "size": "250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 7,
+            "title": "Wagyu Beef",
+            "desc": "100% fresh Wagyu beef",
+            "img": "wagyubeef.png",
+            "price": "200.00",
+            "size": "Approx 1lbs per pack",
+            "category": "meats"
+        },
+        {
+            "id": 8,
+            "title": "Cauliflower",
+            "desc": "100% fresh cauliflowers",
+            "img": "cauliflower.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 9,
+            "title": "Beans",
+            "desc": "100% fresh beanss",
+            "img": "beans.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 10,
+            "title": "Beef",
+            "desc": "100% fresh beef",
+            "img": "beef.png",
+            "price": "10.00",
+            "size": "Approx 1bs per pack",
+            "category": "meats"
+        },
+        {
+            "id": 11,
+            "title": "Blueberry",
+            "desc": "100% fresh Blueberry",
+            "img": "blueberry.png",
+            "price": "5.00",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 12,
+            "title": "Cabbage",
+            "desc": "100% fresh cabbages",
+            "img": "cabbage.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 13,
+            "title": "Carrot",
+            "desc": "100% fresh Carrots",
+            "img": "carrots.png",
+            "price": "1.50",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 14,
+            "title": "Cherry",
+            "desc": "100% fresh Cherries",
+            "img": "cherry.png",
+            "price": "2.30",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 15,
+            "title": "Chicken",
+            "desc": "100% fresh chicken",
+            "img": "chicken.png",
+            "price": "5.00",
+            "size": "Approx 1kg per pack",
+            "category": "meats"
+        },
+        {
+            "id": 16,
+            "title": "Chicken Legs",
+            "desc": "100% fresh Chicken legs",
+            "img": "chickenlegs.png",
+            "price": "10.00",
+            "size": "10 pieces per pack",
+            "category": "meats"
+        },
+        {
+            "id": 17,
+            "title": "Cucumber",
+            "desc": "100% fresh Cucumber",
+            "img": "cucumber.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 18,
+            "title": "Dragon Fruit",
+            "desc": "100% fresh Dragon fruits",
+            "img": "dragonfruit.png",
+            "price": "15.00",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 19,
+            "title": "Eggplant",
+            "desc": "100% fresh Eggplants",
+            "img": "eggplant.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 20,
+            "title": "Eggs",
+            "desc": "100% fresh Eggs",
+            "img": "eggs.png",
+            "price": "1.00",
+            "size": "5 pieces per pack",
+            "category": "meats"
+        },
+        {
+            "id": 21,
+            "title": "Garlic",
+            "desc": "100% fresh garlic",
+            "img": "garlic.png",
+            "price": "1.00",
+            "size": "Approx 250g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 22,
+            "title": "Ginger",
+            "desc": "100% fresh ginger",
+            "img": "ginger.png",
+            "price": "1.10",
+            "size": "Approx 250g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 23,
+            "title": "Guava",
+            "desc": "100% fresh Guava",
+            "img": "guava.png",
+            "price": "2.00",
+            "size": "Approx 500g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 24,
+            "title": "Kiwi",
+            "desc": "100% fresh Kiwi",
+            "img": "kiwi.png",
+            "price": "4.00",
+            "size": "Approx 200g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 25,
+            "title": "Mango",
+            "desc": "100% fresh mango",
+            "img": "mango.png",
+            "price": "1.00",
+            "size": "Approx 320g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 26,
+            "title": "Mangosteen",
+            "desc": "100% fresh mangosteen",
+            "img": "mangosteen.png",
+            "price": "8.00",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 27,
+            "title": "Mutton",
+            "desc": "100% fresh mutton",
+            "img": "mutton.png",
+            "price": "18.00",
+            "size": "Approx 1lbs per pack",
+            "category": "meats"
+        },
+        {
+            "id": 28,
+            "title": "Okra",
+            "desc": "100% fresh okra",
+            "img": "okra.png",
+            "price": "0.60",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 29,
+            "title": "Onion",
+            "desc": "100% fresh onion",
+            "img": "onion.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 30,
+            "title": "Papaya",
+            "desc": "100% fresh papaya",
+            "img": "papaya.png",
+            "price": "2.00",
+            "size": "Approx 500g per piece",
+            "category": "fruits"
+        },
+        {
+            "id": 31,
+            "title": "Passionfruit",
+            "desc": "100% fresh Passionfruit",
+            "img": "passionfruit.png",
+            "price": "1.30",
+            "size": "Approx 500g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 32,
+            "title": "Pineapple",
+            "desc": "100% fresh pineapple",
+            "img": "pineapple.png",
+            "price": "4.00",
+            "size": "Approx 800g per piece",
+            "category": "fruits"
+        },
+        {
+            "id": 33,
+            "title": "Pomegranate",
+            "desc": "100% fresh pomegranate",
+            "img": "pomegranate.png",
+            "price": "12.00",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 34,
+            "title": "Potato",
+            "desc": "100% fresh Potato",
+            "img": "potato.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 35,
+            "title": "Pumpkin",
+            "desc": "100% fresh pumpkin",
+            "img": "pumpkin.png",
+            "price": "1.00",
+            "size": "Approx 500g per piece",
+            "category": "vegetables"
+        },
+        {
+            "id": 36,
+            "title": "Rambutan",
+            "desc": "100% fresh rambutan",
+            "img": "rambutan.png",
+            "price": "2.00",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 37,
+            "title": "Steak",
+            "desc": "100% fresh steak",
+            "img": "steak.png",
+            "price": "30.00",
+            "size": "Approx 1lbs per pack",
+            "category": "meats"
+        },
+        {
+            "id": 38,
+            "title": "Sweetpotato",
+            "desc": "100% fresh sweetpotato",
+            "img": "sweetpotato.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "vegetables"
+        },
+        {
+            "id": 39,
+            "title": "Watermelon",
+            "desc": "100% fresh watermelon",
+            "img": "watermelon.png",
+            "price": "4.00",
+            "size": "Approx 1kg per piece",
+            "category": "fruits"
+        },
+        {
+            "id": 40,
+            "title": "Woodapple",
+            "desc": "100% fresh woodapple",
+            "img": "woodapple.png",
+            "price": "1.00",
+            "size": "Approx 500g per pack",
+            "category": "fruits"
+        }
+      ],
+
+      "bestSelling" : [
+        {
+            "id": 6,
+            "title": "Strawberry",
+            "desc": "100% fresh strawberrys",
+            "img": "strawberry.png",
+            "price": "3.00",
+            "size": "250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 26,
+            "title": "Mangosteen",
+            "desc": "100% fresh mangosteen",
+            "img": "mangosteen.png",
+            "price": "8.00",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 37,
+            "title": "Steak",
+            "desc": "100% fresh steak",
+            "img": "steak.png",
+            "price": "30.00",
+            "size": "Approx 1lbs per pack",
+            "category": "meats"
+        },
+        {
+            "id": 33,
+            "title": "Pomegranate",
+            "desc": "100% fresh pomegranate",
+            "img": "pomegranate.png",
+            "price": "12.00",
+            "size": "Approx 250g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 7,
+            "title": "Wagyu Beef",
+            "desc": "100% fresh Wagyu beef",
+            "img": "wagyubeef.png",
+            "price": "200.00",
+            "size": "Approx 1lbs per pack",
+            "category": "meats"
+        },
+        {
+            "id": 32,
+            "title": "Pineapple",
+            "desc": "100% fresh pineapple",
+            "img": "pineapple.png",
+            "price": "4.00",
+            "size": "Approx 800g per piece",
+            "category": "fruits"
+        },
+        {
+            "id": 25,
+            "title": "Mango",
+            "desc": "100% fresh mango",
+            "img": "mango.png",
+            "price": "1.00",
+            "size": "Approx 320g per pack",
+            "category": "fruits"
+        },
+        {
+            "id": 39,
+            "title": "Watermelon",
+            "desc": "100% fresh watermelon",
+            "img": "watermelon.png",
+            "price": "4.00",
+            "size": "Approx 1kg per piece",
+            "category": "fruits"
+        }
+      ],
+
+      "deals" : [
+        {
+            "id": 1,
+            "title": "Fruit Package",
+            "sub_title": "20% off now",
+            "is_offer": true,
+            "price": "16.00",
+            "old_price": "20.00",
+            "images": ["fruit_package.jpg"]
+        },
+        {
+            "id": 2,
+            "title": "5% off on ",
+            "sub_title": "20% off now",
+            "is_offer": true,
+            "price": "16.00",
+            "old_price": "20.00",
+            "images": ["fruit_package.jpg"]
+        }
+      ]
+
+
+}
